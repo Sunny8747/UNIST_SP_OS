@@ -1,4 +1,4 @@
-# Lecture note and assignment of System Programming
+# Lecture note and assignment of System Programming at UNIST
 
 ## Assgnment
 

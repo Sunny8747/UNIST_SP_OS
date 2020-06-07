@@ -1,2 +1,3 @@
 # UNIST_SP_OS
-Studied at Univ System Programming and OS
+
+- Studied at UNIST System Programming and OS
